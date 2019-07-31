@@ -1,4 +1,5 @@
 class Dog 
-g  snoopy
+  fido = 
+  snoopy
   lassie
 end
