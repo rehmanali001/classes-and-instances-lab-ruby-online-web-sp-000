@@ -1,5 +1,4 @@
 class Dog 
-  fido
-  snoopy
+g  snoopy
   lassie
 end
